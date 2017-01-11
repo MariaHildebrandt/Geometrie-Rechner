@@ -7,3 +7,5 @@ Erweitert das Projekt "Berechnungen für geometrische Objekte" um ein MVC und CS
 verwendet weiterhin das Builder Erzeugungsmuster
 
 sowie SQL zum speichern und löschen der Berechnungen
+
+- in Arbeit
