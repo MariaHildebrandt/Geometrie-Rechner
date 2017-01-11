@@ -8,4 +8,4 @@ verwendet weiterhin das Builder Erzeugungsmuster
 
 sowie SQL zum speichern und löschen der Berechnungen
 
-- in Arbeit
+in Arbeit!
