@@ -1,0 +1,192 @@
+html, body {
+    height: 100%;
+}
+
+body{
+	background:#ebe6ff;
+}
+
+h1{
+	font-family: 'Poiret One',cursive,serif;
+	font-size: 53px;
+	text-align: center;
+	font-weight:600;
+	margin: 50px 0px 20px 0px;
+	color:#647982;
+}
+
+
+a{
+    text-decoration: none;
+    color:#fff;
+}
+
+
+a:hover {
+    text-decoration: none;
+    color:#fff;
+}
+
+
+/* fixiert den footer am unteren Rand des Fensters */
+#footer {
+    position:fixed;
+    left:0px;
+    text-align: center;
+    font-size:10px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+    color:#A9A9A9;
+}
+
+
+
+/* ersatz für boostrap grid für verschiedene brwoser-fenster-größen*/
+.layout-postion{
+    margin-left:215px;
+    margin-right:215px;
+}
+
+
+/* für Fade-in-Effekte in #/create.blade.php  (Eingabeformular)*/
+
+#fade-calculator,
+#fade-table{
+    display:none;
+}
+
+
+
+
+
+/*
+*
+* Button Styles:
+*
+*/
+
+/*Speicher und Link-Buttons (dunkelgrau)*/
+.button{
+    font-family: 'Poiret One',cursive,serif;
+    font-size: 15px;
+    height: 30px;
+    width: 80px;
+    background: #444;
+    /*float: left;*/
+    text-align: center;
+    padding-top: 4px;
+    
+    color: #fff;
+    cursor: pointer;
+   /* border-radius:5px;*/
+}
+
+
+.button:hover{
+    background-color:#5E5E5E;
+	-webkit-transition: all 500ms ease;
+	-moz-transition: all 500ms ease;
+	-ms-transition: all 500ms ease;
+	-o-transition: all 500ms ease;
+	transition: all 500ms ease;
+    
+}
+/*delete button position in #/index.blade.php (Ergebnistabelle) */
+.delete{
+    margin:0 0px 0 -80px;
+}
+
+/*Submit-button in #/create.blade.php und Eingabeformular*/
+input{
+    border:none;
+    padding-bottom:3px;
+}
+
+/* Button für "alle Kreisberechnungen anzeigen" */
+#show-all{
+    height: 30px;
+    width: 230px;
+    margin:-30px 0 0 90px;
+}
+
+
+
+
+
+/*
+*
+* Box-Layout:
+*
+*/
+
+
+/* Boxen für Objekt-Auswahl*/
+.option-box {
+    font-family: 'Poiret One',cursive,serif;
+    font-size: 22px;
+    height: 70px;
+    width: 236px;
+    background: #444;
+    float: left;
+    text-align: center;
+    line-height: 68px;
+    margin: 0 10px 10px 0;
+    color: #fff;
+    cursor: pointer;
+	
+}
+.option-box:hover {
+	background-color:#5E5E5E;
+	-webkit-transition: all 500ms ease;
+	-moz-transition: all 500ms ease;
+	-ms-transition: all 500ms ease;
+	-o-transition: all 500ms ease;
+	transition: all 500ms ease;
+}
+
+/*für JavaScript-fadeIn Effekte*/
+#fade-boxes{
+	display: none;
+}
+
+
+.text{
+	padding:0 0 0 20px;
+}
+
+
+
+
+/* blaue Leiste */
+.header-box {
+    font-family: 'Poiret One',cursive,serif;
+    font-size: 25px;
+    height: 70px;/
+    min-width: 236px;
+    background: #2d70a6;
+    line-height: 68px;
+    margin: 10px 10px 20px 0;
+    color: #fff;
+    cursor: pointer;
+    display: flex;
+}
+.header-box:hover{
+	background-color:#255c89;
+	-webkit-transition: all 500ms ease;
+	-moz-transition: all 500ms ease;
+	-ms-transition: all 500ms ease;
+	-o-transition: all 500ms ease;
+	transition: all 500ms ease;
+}
+/*für JavaScript-fadeIn Effekte*/
+ #fade-headline{
+    display:none;
+}
+
+
+
+
+
+
+
