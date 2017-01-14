@@ -18,6 +18,8 @@ Nutzer kann diese Werte in einer Datenbank speichern, einsehen und löschen
 
 in Arbeit! Bisher sind Werte für Kreis und Kugel berechenbar.
 
+mögliche Eingaben und Ausgaben für den Rechner
+
 |               | Kreis         | Kugel       | Kegel               | Rechteck      | Quadrat     |
 | ------------- |:-------------:|:-----------:|:-------------------:|:-------------:|:-----------:|
 | Eingabe       | Radius        | Radius      | Radius              | Länge         | Länge       |
@@ -30,3 +32,5 @@ in Arbeit! Bisher sind Werte für Kreis und Kugel berechenbar.
 |               | Flächeninhalt | Oberfläche  | Volumen             |               |             |
 |               |               | Volumen     | Mantelhöhe          |               |             |
 |               |               |             | Umfang              |               |             |
+
+(sowie: Pyramide, Dreicken, Tetraeder)
