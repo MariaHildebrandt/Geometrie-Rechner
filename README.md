@@ -17,12 +17,12 @@ Nutzer kann diese Werte in einer Datenbank speichern, einsehen und löschen
 
 
 <p align="center">
-  <img src="https://s19.postimg.org/5t4hxdrqb/startseite.png" width="500"/>
-  <img src="https://s19.postimg.org/unnzrgckj/startseite.png" width="500"/>
+  <img src="https://s19.postimg.org/5t4hxdrqb/startseite.png" width="400"/>
+  <img src="https://s19.postimg.org/9s1pg7gdf/kreis.png" width="400"/>
 </p>
 <p align="center">
-  <img src="https://s19.postimg.org/5t4hxdrqb/startseite.png" width="500"/>
-  <img src="https://s19.postimg.org/unnzrgckj/startseite.png" width="500"/>
+  <img src="https://s19.postimg.org/ef7rhz3qb/berechnung.png" width="400"/>
+  <img src="https://s19.postimg.org/4j6oibxyb/image.png" width="400"/>
 </p>
 
 
