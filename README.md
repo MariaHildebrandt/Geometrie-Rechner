@@ -1,8 +1,13 @@
 # Geometrie Rechner mit Laravel 5.3
 
 Für Nutzeroberfläche siehe layout.pdf 
+
 Hilfsmittel für Geometrieaufgaben.
-Nutzer kann zwischen geometrischen Objekten wählen (Kreis, Kugel, Rechteck, etc.) wählen und für z.B. Kreis einen Wert für Radius, Durchmesser oder Umkreis eingeben. Für diesen Wert erhält der Nutzer einen Kreis mit berechnetem Radius, Durchmesser, Umkreis und Flächeninhalt.
+
+Nutzer kann zwischen geometrischen Objekten wählen (Kreis, Kugel, Rechteck, etc.) wählen und für z.B. Kreis einen Wert für Radius oder  Durchmesser oder Umkreis eingeben. 
+
+Für diesen Wert erhält der Nutzer einen Kreis mit berechnetem Radius, Durchmesser, Umkreis und Flächeninhalt.
+
 Nutzer kann diese Werte in einer Datenbank speichern, einsehen und löschen
 
 
