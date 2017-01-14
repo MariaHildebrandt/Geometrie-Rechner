@@ -14,7 +14,7 @@ Nutzer kann diese Werte in einer Datenbank speichern, einsehen und löschen
 - Verwendet Laravel als MVC
 - Builder Erzeugungsmuster für die einzelnen geometrischen Objekte
 
-
+![alt tag](https://s19.postimg.org/5t4hxdrqb/startseite.png)
 
 in Arbeit! Bisher sind Werte für Kreis und Kugel berechenbar.
 
