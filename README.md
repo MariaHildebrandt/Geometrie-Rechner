@@ -13,14 +13,14 @@ Nutzer kann diese Werte in einer Datenbank speichern, einsehen und löschen
 
 in Arbeit! Bisher sind Werte für Kreis und Kugel berechenbar.
 
-|               | Kreis         | Kugel       |
-| ------------- |:-------------:| -----------:|
-| Eingabe       | Radius        | Radius      |
-|               | Durchmesser   | Durchmesser |
-|               | Umkreis       | Umrkreis    |
-| ------------- |:-------------:| -----------:|
-| Ausgaben      | Radius        | Radius      |
-|               | Durchmesser   | Durchmesser |
-|               | Umkreis       | Umkreis     |
-|               | Flächeninhalt | Oberfläche  |
-|               |               | Volumen     |
+|               | Kreis         | Kugel       | Rechteck      | Quadrat     |
+| ------------- |:-------------:|:-----------:|:-------------:|:-----------:|
+| Eingabe       | Radius        | Radius      | Länge         | Länge       |
+|               | Durchmesser   | Durchmesser | Breite        | Breite      |     
+|               | Umkreis       | Umrkreis    |               | Höhe        |
+|               |               |             |               |             |
+| Ausgaben      | Radius        | Radius      | Umkreis       | Oberfläche  |
+|               | Durchmesser   | Durchmesser | Flächeninhalt | Volumen     |
+|               | Umkreis       | Umkreis     |               |             |
+|               | Flächeninhalt | Oberfläche  |               |             |
+|               |               | Volumen     |               |             |
