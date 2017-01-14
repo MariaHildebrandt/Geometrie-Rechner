@@ -1,11 +1,14 @@
 # Geometrie Rechner mit Laravel
 
-siehe layout.pdf 
+Für Nutzeroberfläche siehe layout.pdf 
+Hilfsmittel für Geometrieaufgaben.
+Nutzer kann zwischen geometrischen Objekten wählen (Kreis, Kugel, Rechteck, etc.) wählen und für z.B. Kreis einen Wert für Radius, Durchmesser oder Umkreis eingeben. Für diesen Wert erhält der Nutzer einen Kreis mit berechnetem Radius, Durchmesser, Umkreis und Flächeninhalt.
+Nutzer kann diese Werte in einer Datenbank speichern, einsehen und löschen
 
-Erweitert das Projekt "Berechnungen für geometrische Objekte" um ein MVC und CSS layout mit jQuery-Effekten
 
-verwendet weiterhin das Builder Erzeugungsmuster
+- Verwendet Laravel als MVC
+- Builder Erzeugungsmuster für die einzelnen geometrischen Objekte
 
-sowie SQL zum speichern und löschen der Berechnungen
 
-in Arbeit!
+
+in Arbeit! Bisher sind Werte für Kreis und Kugel berechenbar.
