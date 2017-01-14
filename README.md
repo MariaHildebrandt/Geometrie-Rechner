@@ -14,11 +14,15 @@ Nutzer kann diese Werte in einer Datenbank speichern, einsehen und löschen
 - Verwendet Laravel als MVC
 - Builder Erzeugungsmuster für die einzelnen geometrischen Objekte
 
-![alt tag](https://s19.postimg.org/5t4hxdrqb/startseite.png)
+
 
 <p align="center">
-  <img src="https://s19.postimg.org/5t4hxdrqb/startseite.png" width="350"/>
-  <img src="https://s19.postimg.org/5t4hxdrqb/startseite.png" width="350"/>
+  <img src="https://s19.postimg.org/5t4hxdrqb/startseite.png" width="500"/>
+  <img src="https://s19.postimg.org/unnzrgckj/startseite.png" width="500"/>
+</p>
+<p align="center">
+  <img src="https://s19.postimg.org/5t4hxdrqb/startseite.png" width="500"/>
+  <img src="https://s19.postimg.org/unnzrgckj/startseite.png" width="500"/>
 </p>
 
 
