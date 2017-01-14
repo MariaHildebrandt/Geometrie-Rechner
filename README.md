@@ -18,14 +18,15 @@ Nutzer kann diese Werte in einer Datenbank speichern, einsehen und löschen
 
 in Arbeit! Bisher sind Werte für Kreis und Kugel berechenbar.
 
-|               | Kreis         | Kugel       | Rechteck      | Quadrat     |
-| ------------- |:-------------:|:-----------:|:-------------:|:-----------:|
-| Eingabe       | Radius        | Radius      | Länge         | Länge       |
-|               | Durchmesser   | Durchmesser | Breite        | Breite      |     
-|               | Umkreis       | Umrkreis    |               | Höhe        |
-|               |               |             |               |             |
-| Ausgaben      | Radius        | Radius      | Umkreis       | Oberfläche  |
-|               | Durchmesser   | Durchmesser | Flächeninhalt | Volumen     |
-|               | Umkreis       | Umkreis     |               |             |
-|               | Flächeninhalt | Oberfläche  |               |             |
-|               |               | Volumen     |               |             |
+|               | Kreis         | Kugel       | Kegel               | Rechteck      | Quadrat     |
+| ------------- |:-------------:|:-----------:|:-------------------:|:-------------:|:-----------:|
+| Eingabe       | Radius        | Radius      | Radius              | Länge         | Länge       |
+|               | Durchmesser   | Durchmesser | Höhe                | Breite        | Breite      |
+|               | Umkreis       | Umrkreis    |                     |               | Höhe        |
+|               |               |             |                     |               |             |
+| Ausgaben      | Radius        | Radius      | Flächeninhalt Grund | Umkreis       | Oberfläche  |
+|               | Durchmesser   | Durchmesser | Flächeninhalt Mantel| Flächeninhalt | Volumen     |
+|               | Umkreis       | Umkreis     | Oberfläche          |               |             |
+|               | Flächeninhalt | Oberfläche  | Volumen             |               |             |
+|               |               | Volumen     | Mantelhöhe          |               |             |
+|               |               |             | Umfang              |               |             |
