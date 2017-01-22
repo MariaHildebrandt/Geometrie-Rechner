@@ -13,6 +13,8 @@ Nutzer kann diese Werte in einer Datenbank speichern, einsehen und löschen
 
 - Verwendet Laravel als MVC
 - Builder Erzeugungsmuster für die einzelnen geometrischen Objekte
+- Bootstrap Grid und Forms
+- Success Messages (Speichern)
 - Bilder lizenfrei von www.pexels.com
 
 
@@ -26,7 +28,7 @@ Nutzer kann diese Werte in einer Datenbank speichern, einsehen und löschen
 
 in Arbeit! Bisher sind Werte für Kreis und Kugel berechenbar.
 
-mögliche Eingaben und Ausgaben für den Rechner
+Beispieleingaben und Ausgaben für den Rechner
 
 |               | Kreis         | Kugel       | Kegel               | Rechteck      | Quadrat     |
 | ------------- |:-------------:|:-----------:|:-------------------:|:-------------:|:-----------:|
