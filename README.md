@@ -13,6 +13,7 @@ Nutzer kann diese Werte in einer Datenbank speichern, einsehen und löschen
 
 - Verwendet Laravel als MVC
 - Builder Erzeugungsmuster für die einzelnen geometrischen Objekte
+- Bilder lizenfrei von www.pexels.com
 
 
 
