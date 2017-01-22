@@ -16,10 +16,10 @@ Nutzer kann diese Werte in einer Datenbank speichern, einsehen und löschen
 
 
 
-<p align="center">
-  <img src="https://s19.postimg.org/3u40tk2sj/startseite.jpg" width="400"/>
-  <img src="https://s19.postimg.org/efnw5k943/image.jpg" width="400"/>
-  <img src="https://s19.postimg.org/zba6gt5b7/berechnung.jpg" width="400"/>
+<p align="left">
+  <img src="https://s19.postimg.org/3u40tk2sj/startseite.jpg" width="500"/>
+  <img src="https://s19.postimg.org/zba6gt5b7/berechnung.jpg" width="500"/>
+   <img src="https://s19.postimg.org/efnw5k943/image.jpg" width="500"/>
 </p>
 
 
