@@ -17,10 +17,9 @@ Nutzer kann diese Werte in einer Datenbank speichern, einsehen und löschen
 
 
 <p align="center">
-  <img src="https://s19.postimg.org/5t4hxdrqb/startseite.png" width="200"/>
-  <img src="https://s19.postimg.org/9s1pg7gdf/kreis.png" width="200"/>
-  <img src="https://s19.postimg.org/ef7rhz3qb/berechnung.png" width="200"/>
-  <img src="https://s19.postimg.org/4j6oibxyb/image.png" width="200"/>
+  <img src="https://s19.postimg.org/3u40tk2sj/startseite.jpg" width="300"/>
+  <img src="https://s19.postimg.org/efnw5k943/image.jpg" width="300"/>
+  <img src="https://s19.postimg.org/zba6gt5b7/berechnung.jpg" width="300"/>
 </p>
 
 
