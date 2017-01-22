@@ -16,7 +16,7 @@ Nutzer kann diese Werte in einer Datenbank speichern, einsehen und löschen
 - Bootstrap Grid und Forms
 - Success Messages (Speichern)
 - jQuery Fade-In Functions
-- Bilder lizenfrei von www.pexels.com
+- Bilder lizenzfrei von www.pexels.com
 
 
 
