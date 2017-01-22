@@ -29,7 +29,7 @@
                 
                 <div class="row" id="fade-table">
                     <div class="layout-postion">
-                        <table class = "table table-condensed">
+                        <table class = "table table-condensed table-ergebnis">
                             <thead>
                                 <!--<th>#</th>-->
                                 <th>Radius</th>

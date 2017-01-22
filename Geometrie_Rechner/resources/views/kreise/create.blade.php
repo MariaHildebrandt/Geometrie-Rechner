@@ -55,15 +55,10 @@
             $durchmesser = $_GET['durchmesser'];
             $umfang = $_GET['umfang'];
             $flacheninhalt = $_GET['flacheninhalt']; ?>
-                 
+            <div id="table-wrapper">    
             <table class="table table-condensed">
                 <thead>
-                    <tr>
-                        <th></th>
-                        <th></th>
-                        <th></th>
-                        <th></th>
-                    </tr>
+                    
                 </thead>
                 <tbody>
                     <tr>
@@ -80,6 +75,7 @@
                     </tr>
                 </tbody>
             </table>
+			</div>
         
          @include('partials._messages')
 
