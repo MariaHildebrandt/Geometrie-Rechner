@@ -38,6 +38,7 @@ php artisan migrate
 ```
 4. App starten
 ```bash
+php artisan key:generate
 php artisan serve
 ```
 http://localhost:8000/
