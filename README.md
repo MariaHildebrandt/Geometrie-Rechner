@@ -2,7 +2,7 @@
 
 Für Nutzeroberfläche siehe layout.pdf 
 
-Hilfsmittel für Geometrieaufgaben.
+Hilfsmittel für Geometrieaufgaben zB für Schüler der 8.Klasse
 
 Nutzer kann zwischen geometrischen Objekten wählen (Kreis, Kugel, Rechteck, etc.) wählen und für z.B. Kreis einen Wert für Radius oder  Durchmesser oder Umkreis eingeben. 
 
@@ -10,14 +10,37 @@ Für diesen Wert erhält der Nutzer einen Kreis mit berechnetem Radius, Durchmes
 
 Nutzer kann diese Werte in einer Datenbank speichern, einsehen und löschen
 
-
-- Verwendet Laravel als MVC
+## Verwendet:
+- Laravel als MVC
 - Builder Erzeugungsmuster für die einzelnen geometrischen Objekte
 - Bootstrap Grid und Forms
 - Success Messages (Speichern)
 - jQuery Fade-In Functions
 - Bilder lizenzfrei von www.pexels.com
 
+## Installation:
+
+1. Download mit Git:
+
+```bash
+git clone https://github.com/MariaHildebrandt/Geometrie-Rechner-mit-Laravel projectname
+```
+2. Composer
+```bash
+cd projectname
+composer install
+```
+3. Server starten und Datenbank erstellen 
+- starten Sie XAMPP: Apache und mySQL
+- Erstellen Sie einen neue Datenbank 'objects' in phpMyAdmin
+```bash
+php artisan migrate
+```
+4. App starten
+```bash
+php artisan serve
+```
+http://localhost:8000/
 
 
 <p align="left">
