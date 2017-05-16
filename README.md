@@ -23,7 +23,7 @@ Nutzer kann diese Werte in einer Datenbank speichern, einsehen und löschen
 1. Download mit Git:
 
 ```bash
-git clone https://github.com/MariaHildebrandt/Geometrie-Rechner-mit-Laravel projectname
+git clone https://github.com/MariaHildebrandt/Geometrie-Rechner projectname
 ```
 2. Composer
 ```bash
